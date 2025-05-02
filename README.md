@@ -38,7 +38,7 @@ Verify the installation works by running `cobc --version`. The output should be 
 
 ### VScode
 
-There are a number of extensions on vscode available for COBOL. The one we used for these sample codes is **COBOL Language Support** by **Broadcom**
+There are a number of extensions on vscode available for COBOL. These extensions enable intellisense and formatting for fixed-length COBOL. The one we used for these sample codes is **COBOL Language Support** by **Broadcom**
 
 ## Compiling
 To compile one of the sample codes, run this command
