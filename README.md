@@ -48,3 +48,5 @@ cobc -x -o <output-name> <input-file>
 ```
 
 `-x` tells the compiler to produce executable code. Without the `-x` flag, it will produce `.dll` files on Windows and `.so` files on Linux.
+
+**NOTE:** This repository was created as part of a university course requirement.
